@@ -1,6 +1,6 @@
 # Some Code Katas.
 
-Ideas
+## Ideas
 1. Calculate Fibonacci numbers
 2. Prime factorization
 3. Convert Roman Numerals
